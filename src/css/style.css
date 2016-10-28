@@ -1,0 +1,450 @@
+@media (max-width: 768px) {
+  #head div {
+    color: #464749;
+    text-align: center; }
+  #head header {
+    color: #052961;
+    font-size: 120%;
+    text-align: center; }
+  #head > div:first-child {
+    font-size: 120%; }
+  #head > div:last-child {
+    font-size: 80%; }
+  #subHead {
+    color: #052961;
+    font-weight: bold;
+    padding-left: 2%; }
+    #subHead div {
+      color: black;
+      font-weight: bold;
+      margin-left: 0.5%; }
+  .headList li {
+    margin-left: -5%; }
+  #img_energi {
+    width: 40%; }
+  #img_logo {
+    width: 28%; }
+  #img_logo_text {
+    display: none; }
+  .club {
+    color: #052961;
+    font-size: 120%;
+    font-weight: bold;
+    padding-left: 2%; }
+  .greyBG {
+    background-color: #818386; }
+    .greyBG div {
+      padding: 2% 0 2% 2%;
+      color: white;
+      margin-left: 3%; }
+    .greyBG li {
+      margin-left: 1%;
+      color: white;
+      padding: 2% 0 2% 2%;
+      margin-left: 3%; }
+      .greyBG li span {
+        position: relative;
+        left: -1%; }
+  .secondPageSubTitle {
+    background-color: #052961;
+    color: white;
+    padding: 1% 0 1% 2%; }
+  .strongTitle {
+    font-size: 130%; }
+  .wideSizeTable img {
+    display: none; }
+  #logo3 {
+    display: none; }
+  #logo2 {
+    display: none; }
+  .smSizeHideNum {
+    display: none; }
+  .form {
+    position: relative;
+    border-bottom: 1px solid black; }
+    .form .criteria {
+      border-right: 1px solid black;
+      padding-left: 6%;
+      height: 100%; }
+    .form .checkbox {
+      margin-top: -0.01%;
+      right: 1.5px;
+      height: 100%;
+      position: absolute; }
+      .form .checkbox label {
+        position: absolute;
+        top: 50%;
+        right: 30%;
+        transform: translateY(-50%); }
+    .form #shortText {
+      padding: 1% 1% 1% 1%; }
+  .subline {
+    border-bottom: 1px solid black;
+    position: relative; }
+    .subline .subTotal {
+      background-color: #818386;
+      padding: 10px 10px 10px 10px;
+      color: white;
+      font-size: 120%;
+      font-weight: bold;
+      text-align: right; }
+    .subline .col-xs-2 {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0px;
+      text-align: center; }
+  .totalLine {
+    border-bottom: 1px solid black;
+    position: relative; }
+    .totalLine .total {
+      background-color: #052961;
+      color: white;
+      font-size: 120%;
+      font-weight: bold;
+      padding: 10px 10px 10px 10px;
+      text-align: right;
+      border-bottom: 1px solid black; }
+    .totalLine .totalCount {
+      position: absolute;
+      top: 50%;
+      right: 0px;
+      transform: translateY(-50%);
+      text-align: center; }
+  .pageThreeSubTitle {
+    color: #052961;
+    font-size: 110%;
+    font-weight: 105%; }
+  .pageThreeTitle {
+    color: #052961;
+    font-size: 130%;
+    font-weight: bold; }
+  .listItem li {
+    font-size: 105%; }
+  a:link {
+    font-weight: bold;
+    text-decoration-line: underline; }
+  .subMission {
+    font-size: 105%;
+    margin-left: 5%; } }
+
+@media (min-width: 769px) and (max-width: 992px) {
+  #head div {
+    color: #464749;
+    text-align: center; }
+  #head header {
+    color: #052961;
+    font-size: 260%;
+    text-align: center; }
+  #head > div:first-child {
+    font-size: 220%; }
+  #head > div:last-child {
+    font-size: 180%; }
+  #subHead {
+    color: #052961;
+    font-weight: bold;
+    padding-left: 2%;
+    font-size: 160%; }
+    #subHead div {
+      color: black;
+      font-weight: bold;
+      margin-left: 0.5%; }
+  .headList li {
+    font-size: 150%; }
+  #img_energi {
+    width: 40%; }
+  #img_logo {
+    display: none; }
+  #img_logo_text {
+    width: 40%;
+    margin-top: 5%; }
+  #logo3 {
+    display: none; }
+  #logo2 {
+    display: none; }
+  .club {
+    color: #052961;
+    font-size: 220%;
+    font-weight: bold;
+    padding-left: 2%; }
+  .greyBG {
+    background-color: #818386; }
+    .greyBG div {
+      font-size: 150%;
+      padding: 2% 0 2% 2%;
+      color: white;
+      margin-left: 3%; }
+    .greyBG li {
+      font-size: 120%;
+      margin-left: 1%;
+      color: white;
+      padding: 2% 0 2% 2%;
+      margin-left: 3%; }
+      .greyBG li span {
+        position: relative;
+        left: -1%; }
+  .secondPageSubTitle {
+    background-color: #052961;
+    color: white;
+    padding: 1% 0 1% 2%;
+    font-size: 130%; }
+  .strongTitle {
+    font-size: 140%; }
+  .wideSizeTable img {
+    display: none; }
+  .smSizeHideNum {
+    display: none; }
+  .form {
+    position: relative;
+    border-bottom: 1px solid black; }
+    .form .criteria {
+      border-right: 1px solid black;
+      padding-left: 6%;
+      height: 100%; }
+    .form .checkbox {
+      margin-top: -0.01%;
+      right: 1.5px;
+      height: 100%;
+      position: absolute; }
+      .form .checkbox label {
+        position: absolute;
+        top: 50%;
+        right: 30%;
+        transform: translateY(-50%);
+        font-size: 120%; }
+    .form #shortText {
+      padding: 1% 1% 1% 1%; }
+    .form .col-xs-10 {
+      font-size: 120%; }
+  .subline {
+    border-bottom: 1px solid black;
+    position: relative; }
+    .subline .subTotal {
+      background-color: #818386;
+      padding: 10px 10px 10px 10px;
+      color: white;
+      font-size: 120%;
+      font-weight: bold;
+      text-align: right; }
+    .subline .col-xs-2 {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0px;
+      text-align: center;
+      font-size: 120%; }
+  .totalLine {
+    border-bottom: 1px solid black;
+    position: relative; }
+    .totalLine .total {
+      background-color: #052961;
+      color: white;
+      font-size: 120%;
+      font-weight: bold;
+      padding: 10px 10px 10px 10px;
+      text-align: right;
+      border-bottom: 1px solid black; }
+    .totalLine .totalCount {
+      position: absolute;
+      top: 50%;
+      right: 0px;
+      transform: translateY(-50%);
+      text-align: center;
+      font-size: 120%; }
+  .pageThreeSubTitle {
+    color: #052961;
+    font-size: 200%;
+    font-weight: 105%; }
+  .pageThreeTitle {
+    color: #052961;
+    font-size: 250%;
+    font-weight: bold; }
+  .listItem li {
+    font-size: 120%; }
+  a:link {
+    font-weight: bold;
+    text-decoration-line: underline; }
+  .subMission {
+    font-size: 120%;
+    margin-left: 5%; } }
+
+@media (min-width: 992px) {
+  #head div {
+    color: #464749;
+    text-align: center; }
+  #head header {
+    color: #052961;
+    font-size: 260%;
+    text-align: center; }
+  #head > div:first-child {
+    font-size: 220%; }
+  #head > div:last-child {
+    font-size: 180%; }
+  #subHead {
+    color: #052961;
+    font-weight: bold;
+    padding-left: 2%;
+    font-size: 160%; }
+    #subHead div {
+      color: black;
+      font-weight: bold;
+      margin-left: 0.5%; }
+  .headList li {
+    font-size: 150%; }
+  #img_energi {
+    width: 40%; }
+  #img_logo {
+    display: none; }
+  #img_logo_text {
+    width: 40%;
+    margin-top: 5%; }
+  .club {
+    color: #052961;
+    font-size: 300%;
+    font-weight: bold;
+    padding-left: 2%; }
+  .greyBG {
+    background-color: #818386; }
+    .greyBG div {
+      font-size: 150%;
+      padding: 2% 0 2% 2%;
+      color: white;
+      margin-left: 3%; }
+    .greyBG li {
+      font-size: 120%;
+      margin-left: 1%;
+      color: white;
+      padding: 2% 0 2% 2%;
+      margin-left: 3%; }
+      .greyBG li span {
+        position: relative;
+        left: -1%; }
+  .secondPageSubTitle {
+    background-color: #052961;
+    color: white;
+    padding: 1% 0 1% 2%;
+    font-size: 130%; }
+  .strongTitle {
+    font-size: 140%; }
+  .form {
+    position: relative;
+    border-bottom: 1px solid black; }
+    .form .criteria {
+      border-right: 1px solid black;
+      border-left: 1px solid black;
+      padding-left: 6%;
+      height: 100%; }
+    .form .checkbox {
+      margin-top: -0.01%;
+      right: 1.5px;
+      height: 100%;
+      position: absolute;
+      border-left: 1px solid black;
+      border-right: 1px solid black; }
+      .form .checkbox label {
+        position: absolute;
+        top: 50%;
+        right: 40%;
+        transform: translateY(-50%);
+        font-size: 120%; }
+    .form .numColumn {
+      margin-top: -0.01%;
+      right: 15%;
+      height: 100%;
+      position: absolute; }
+      .form .numColumn label {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 120%; }
+    .form #shortText {
+      padding: 1% 1% 1% 1%; }
+    .form .col-xs-10 {
+      font-size: 120%; }
+  .subline {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    position: relative; }
+    .subline .subTotal {
+      background-color: #818386;
+      padding: 10px 10px 10px 10px;
+      color: white;
+      font-size: 120%;
+      font-weight: bold;
+      text-align: right; }
+    .subline .col-xs-2 {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0px;
+      text-align: center;
+      font-size: 120%; }
+  .totalLine {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    position: relative; }
+    .totalLine .total {
+      background-color: #052961;
+      color: white;
+      font-size: 120%;
+      font-weight: bold;
+      padding: 10px 10px 10px 10px;
+      text-align: right;
+      border-bottom: 1px solid black; }
+    .totalLine .totalCount {
+      position: absolute;
+      top: 50%;
+      right: 0px;
+      transform: translateY(-50%);
+      text-align: center;
+      font-size: 120%; }
+  .pageThreeSubTitle {
+    color: #052961;
+    font-size: 200%;
+    font-weight: 105%; }
+  .pageThreeTitle {
+    color: #052961;
+    font-size: 250%;
+    font-weight: bold; }
+  .listItem li {
+    font-size: 120%; }
+  a:link {
+    font-weight: bold;
+    text-decoration-line: underline; }
+  .subMission {
+    font-size: 120%;
+    margin-left: 5%; }
+  .lgSizeHideNum {
+    display: none; }
+  #heart {
+    position: absolute;
+    right: 50px;
+    top: 270px;
+    width: 50%; }
+  #child {
+    position: absolute;
+    right: 50px;
+    width: 50%; }
+  #logo {
+    position: absolute;
+    right: 50px;
+    top: 250px;
+    width: 65%; }
+  #logo2 {
+    position: absolute;
+    right: 50px;
+    top: 250px;
+    width: 65%; }
+  #logo3 {
+    position: absolute;
+    right: 50px;
+    top: 1110px;
+    width: 65%; }
+  #bluelogo {
+    position: absolute;
+    right: 50px;
+    width: 50%; }
+  #book {
+    position: absolute;
+    right: 50px;
+    width: 50%; } }
